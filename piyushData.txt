@@ -1,7 +1,7 @@
 
 
-This is a  dummy file.
-
+These are the instructions to add git data.
+0. git init
 1. git add .
 2. git status
 3. git commit -m "any comment"
